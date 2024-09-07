@@ -2,18 +2,27 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 
   
-# Hey there! 🥂 👉<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="470">  
+<h1  align="center"> HI 👋, I am Adi <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> </h1>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+ <h1 align="center"> What do i do?  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="45"/></h1>
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
+    
+- 🔭 I’m currently working on **Gen AI App**
+
+- 🌱 I’m currently learning **Data Analysis**
+
+- 💬 Ask me about **Cloud , Python**
+
+- 📫 How to reach me **Mr.Adithya.Rao@proton.me**
+
+- ⚡ Fun fact **I am Funny**
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
- # **Key Skills and Expertise** <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="50" /><br>
-🧇 **Cloud Architecture:** Proficient in designing and implementing robust cloud solutions on **AWS** 🛠️, optimizing performance and streamlining workflows.<br>🍔 **Problem Solving:** Excel at identifying and addressing complex challenges, transforming them into **innovative** solutions 💡.<br>🍠 **Python Development:** Skilled in Python programming, creating **dynamic** and **interactive** applications.<br>🍙 **Frontend Development:** Experience with building **user-friendly** interfaces using popular frameworks.<br>🍜 **DevOps:** Knowledge of **containerization** with **Docker** 🐳 and **CI/CD pipelines**.<br><br>**Projects and Experience** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /><br><br>🍱 **Streamlit Projects:** Developed **interactive** web applications using **Streamlit** for data visualization and analysis.<br>🥙 **Dockerized Applications:** Containerized applications for **efficient** deployment and portability.<br>🌭 **Generative AI Projects:** Currently exploring and working on projects utilizing **generative AI** techniques to create **innovative** solutions.<br>🍛 **Data Analysis and Algorithms:** Deepening my understanding of data analysis and algorithm design to enhance my problem-solving skills.<br><br>**Interests and Goals** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /><br><br>🦪 **Generative AI:** Keenly interested in the advancements and applications of **generative AI** 🤖.<br>🍜 **Collaboration:** Eager to collaborate with like-minded tech enthusiasts to **drive innovation** 🚀.<br>🍔 **Continuous Learning:** Committed to staying updated with the latest trends and technologies in the field.<br><br>**Let's Connect** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /><br><br>I'm always open to new opportunities and collaborations. Feel free to explore my GitHub repository for more details on my projects and skills. Let's work together to create **groundbreaking** tech solutions that make a positive impact. 🌍<br>
+<h1 align= "center"> 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="40" /></h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" height="60">
-<br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-# 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="40" />
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -35,10 +44,18 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-# ✍️ Random Dev Quote <img src="https://user-images.githubusercontent.com/74038190/216122005-3226fcc7-8713-41a1-ae5a-51d4b4cbcb83.png" alt="Guide Dog" width="60" />
+<h1 align="center"> ✍️ Random Dev Quote <img src="https://user-images.githubusercontent.com/74038190/216122005-3226fcc7-8713-41a1-ae5a-51d4b4cbcb83.png" alt="Guide Dog" width="60" /></h1>
+
+<img  align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="250" />
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
 # 🔝 Top Contributed Repo <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+ 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="250" />
+
 ![](https://github-contributor-stats.vercel.app/api?username=iam-Adithya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=iam-Adithya&icon=7&color=4)](https://visitcount.itsvg.in)
