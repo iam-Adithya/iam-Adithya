@@ -11,7 +11,7 @@
 
 ### `Site Reliability Engineer · Cloud & DevOps`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Keeping+systems+up+at+3AM+so+you+don%27t+have+to.;SD-WAN+%7C+Incident+Management+%7C+Cloud+Ops;99.9%25+uptime+is+not+a+goal%2C+it%27s+a+baseline.;Turning+alerts+into+RCAs+since+2024.;Automate+the+toil.+Document+the+context.+Own+the+uptime.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Keeping+systems+up+at+3AM+so+you+don%27t+have+to.;if+%28alert%29+%7B+triage%28%29%3B+rca%28%29%3B+fix%28%29%3B+%7D;99.9%25+uptime+is+not+a+goal%2C+it%27s+a+baseline.;Turning+alerts+into+RCAs+since+2024.;Automate+the+toil.+Document+the+context.+Own+the+uptime.;kubectl+get+incidents+--field-selector+status%3Dresolved;Infrastructure+as+Code.+Failure+as+Signal.;On-call+is+not+a+rotation.+It%27s+ownership.;Ship+fast.+Observe+everything.+Break+nothing.)](https://git.io/typing-svg)
 
 </div>
 
