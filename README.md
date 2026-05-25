@@ -1,79 +1,83 @@
-<!-- Header -->
 <div align="center">
 
 ```
-███████╗██████╗ ███████╗
-██╔════╝██╔══██╗██╔════╝
-███████╗██████╔╝█████╗  
-╚════██║██╔══██╗██╔══╝  
-███████║██║  ██║███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝
+ █████╗ ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗ █████╗     ██████╗  █████╗  ██████╗ 
+██╔══██╗██╔══██╗██║╚══██╔══╝██║  ██║╚██╗ ██╔╝██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗
+███████║██║  ██║██║   ██║   ███████║ ╚████╔╝ ███████║    ██████╔╝███████║██║   ██║
+██╔══██║██║  ██║██║   ██║   ██╔══██║  ╚██╔╝  ██╔══██║    ██╔══██╗██╔══██║██║   ██║
+██║  ██║██████╔╝██║   ██║   ██║  ██║   ██║   ██║  ██║    ██║  ██║██║  ██║╚██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
 ```
 
-# `$ whoami` → **Adithya Rao**
+### `Network Reliability Engineer · SRE · Cloud & DevOps`
 
-### Network Reliability Engineer · SRE · Cloud Ops
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Keeping+systems+up+at+3AM+so+you+don%27t+have+to.;SD-WAN+%7C+Incident+Management+%7C+Cloud+Ops;99.9%25+uptime+isn%27t+a+goal%2C+it%27s+a+baseline.;Turning+alerts+into+RCAs+since+2024.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Keeping+systems+up+at+3AM+so+you+don%27t+have+to.;SD-WAN+%7C+Incident+Management+%7C+Cloud+Ops;99.9%25+uptime+is+not+a+goal%2C+it%27s+a+baseline.;Turning+alerts+into+RCAs+since+2024.;Automate+the+toil.+Document+the+context.+Own+the+uptime.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```bash
-$ cat /etc/adithya/profile.conf
-```
+## `$ cat /etc/adithya/profile.conf`
 
 ```ini
 [identity]
-name        = Adithya Rao
-role        = Network Reliability Engineer (Tier 1.5)
-location    = India
-employer    = HCLTech
+name         = Adithya Rao
+role         = Network Reliability Engineer (Tier 1.5)
+employer     = HCLTech  →  Verizon (client)
+location     = India
 
-[focus]
-primary     = SD-WAN Operations, Incident Management
-secondary   = Cloud Infrastructure (GCP/Azure), IaC
-learning    = Platform Engineering, Observability, SRE practices
+[scope]
+domain       = SD-WAN Operations, Cloud Infra, SRE, DevOps
+clients      = Verizon, American Express, Walmart, PepsiCo, Coca-Cola
+coverage     = 24x7 NOC | Multi-geo | Fortune 500
 
-[sla]
-uptime_target   = 99.9%+
-oncall          = 24x7 NOC
-clients         = Fortune 500 (AmEx, Walmart, PepsiCo, Coca-Cola...)
+[targets]
+uptime_sla   = 99.9%+
+mttr_delta   = -20%
+repeat_inc   = -25%
+vendor_tat   = -15%
 ```
 
 ---
 
-## `$ systemctl status current-role`
+## `$ systemctl status current-role --full`
 
 ```
 ● hcltech-nre.service — Network Reliability Engineer, Tier 1.5
      Loaded: active (running) since Aug 2025
-     Status: "Monitoring SD-WAN, MPLS & DC infra for global enterprise clients"
-```
+     Client: Verizon (primary) + Fortune 500 enterprise accounts
+     Status: "Monitoring SD-WAN, MPLS & DC infra across multiple geographies"
 
-> Operating 24/7 NOC for Fortune 500 clients. Triaging SD-WAN tunnel instability,
-> BGP failures, firewall incidents, and WAN degradation across **Cisco Viptela, Versa,
-> VMware VeloCloud, and HPE Aruba SilverPeak** — owning the full incident lifecycle
-> from alert detection → RCA → closure.
+● Scope:
+     → SD-WAN tunnel management: Cisco Viptela · Versa · VMware VeloCloud · HPE Aruba SilverPeak
+     → ISP incidents: BGP instability · link flapping · last-mile packet loss
+     → Firewall ops: Palo Alto PAN-OS · IPSec VPN · NAT policy
+     → Full incident lifecycle: Detection → Triage → Escalation → RCA → Closure
+```
 
 ---
 
-## `$ lsblk --topology`
+## `$ lsblk --topology --all`
 
 ```
-NETWORK STACK                          CLOUD & INFRA
-├── TCP/IP · BGP · OSPF · MPLS         ├── GCP (Compute, Monitoring, Logging, IAM)
-├── SD-WAN (Viptela/Versa/VeloCloud)   ├── Azure (VNet, NSG, AKS, Key Vault)
-├── VPN (IPSec/SSL)                    ├── Terraform · Docker · Kubernetes
-├── DNS · HTTP/S · TLS                 └── Linux/Unix
-└── Palo Alto PAN-OS (Firewall)
+NETWORK & SD-WAN                        CLOUD PLATFORMS
+├── TCP/IP · BGP · OSPF · MPLS          ├── GCP  (Compute, Monitoring, Logging, IAM)
+├── SD-WAN (Viptela / Versa /           ├── AWS  (EC2, CloudWatch, VPC, IAM)
+│         VeloCloud / SilverPeak)       └── Azure (VNet, NSG, AKS, Key Vault)
+├── VPN  (IPSec / SSL)
+├── DNS · HTTP/S · TLS                  CONTAINERS & INFRA-AS-CODE
+└── Palo Alto PAN-OS                    ├── Docker · Kubernetes
+                                        ├── Terraform · Ansible
+OBSERVABILITY                           └── Nginx
+├── ETMS · BGW · EZstatus · Canvas
+├── GCP Cloud Monitoring                CI / CD PIPELINES
+├── AWS CloudWatch                      ├── GitHub Actions
+├── SIEM · Wireshark · Suricata         ├── GitLab CI/CD
+└── Log Analysis · Alerting             └── Argo CD  (GitOps)
 
-OBSERVABILITY                          SCRIPTING
-├── ETMS · BGW · EZstatus · Canvas     ├── Python — alert parsing, log correlation
-├── GCP Cloud Monitoring               ├── Bash — interface polling, toil reduction
-├── SIEM · Wireshark · Suricata        └── Automation — reduce MTTR by 20%
-└── Log Analysis · Alerting Pipelines
+SCRIPTING & AUTOMATION
+├── Python  — alert parsing, log correlation, toil reduction
+└── Bash    — interface polling, incident automation, runbook scripting
 ```
 
 ---
@@ -81,37 +85,53 @@ OBSERVABILITY                          SCRIPTING
 ## `$ cat ~/.certifications`
 
 ```
-[✓] AZ-104  Microsoft Certified: Azure Administrator Associate
-[✓] AZ-305  Microsoft Certified: Azure Solutions Architect Expert
-[✓] SD-WAN  Viptela · Versa · VeloCloud · SilverPeak · Meraki
-[✓] CCNA    Routing, Switching & Network Fundamentals (Cisco)
+[✓] AZ-104   Microsoft Certified: Azure Administrator Associate
+[✓] AZ-305   Microsoft Certified: Azure Solutions Architect Expert
+[✓] SD-WAN   Viptela · Versa Networks · VeloCloud · SilverPeak · Meraki
+[✓] CCNA     Routing, Switching & Network Fundamentals (Cisco)
 ```
 
 ---
 
-## `$ git log --oneline --projects`
+## `$ git log --oneline --all-projects`
 
 ```
-a3f1c2e  feat: Netflix Clone — containerised + K8s deployed on GCP
-         └── Docker multi-stage build · 2-replica K8s Deployment · NodePort Service
-             Non-root runtime · Rolling updates · Self-healing pods
+a3f1c2e  feat: Netflix Clone — containerised + Kubernetes-deployed on GCP
+         └── Docker multi-stage build (builder → Nginx/Alpine) · non-root runtime
+             2-replica K8s Deployment + NodePort Service · self-healing · rolling updates
+             Secure ENV injection via Docker ARG/ENV · 12-factor config practices
 
 b7d09f1  feat: Cloud Monitoring & Alerting Lab — GCP
-         └── Uptime checks · CPU/mem/disk alerting policies · Log-based incident triage
-             Email + webhook notification channels · False-positive tuning
+         └── Uptime checks & dashboards on Compute Engine instances
+             CPU / memory / disk alerting policies · email + webhook channels
+             Log-based incident investigation via Cloud Logging
 ```
 
 ---
 
-## `$ grep -r "impact" /var/log/adithya/work.log`
+## `$ grep -r "impact" /var/log/adithya/metrics.log`
 
 ```log
-[METRIC] Repeat incidents reduced by 25% via structured RCA documentation
-[METRIC] MTTR reduced by 20% through Python/Bash alert automation
-[METRIC] Vendor turnaround time cut by 15% via streamlined escalation workflows
-[UPTIME] Maintained 99.9%+ for multi-geo enterprise SD-WAN environments
-[SCALE]  Supporting ~7 Fortune 500 clients concurrently across telecom/banking/FMCG
+[METRIC]  MTTR reduced by 20%          via Python/Bash alert automation
+[METRIC]  Repeat incidents down 25%    via structured RCA documentation  
+[METRIC]  Vendor TAT cut by 15%        via streamlined escalation workflows
+[UPTIME]  99.9%+ maintained            across multi-geo SD-WAN environments
+[SCALE]   Fortune 500 clients          Verizon · AmEx · Walmart · PepsiCo · Coca-Cola
 ```
+
+---
+
+## `$ htop` — GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-Adithya&show_icons=true&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=aaffaa&hide_border=false&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-Adithya&layout=compact&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=aaffaa)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iam-Adithya&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=aaffaa&dates=666666)
+
+</div>
 
 ---
 
@@ -127,35 +147,14 @@ b7d09f1  feat: Cloud Monitoring & Alerting Lab — GCP
 </div>
 
 ```
-PING adithya (adicse005@gmail.com): 56 bytes of data
-64 bytes: icmp_seq=0 ttl=64 time=fast ms  ← LinkedIn
-64 bytes: icmp_seq=1 ttl=64 time=fast ms  ← GitHub
-64 bytes: icmp_seq=2 ttl=64 time=fast ms  ← Medium
-64 bytes: icmp_seq=3 ttl=64 time=fast ms  ← Email
-
---- adithya ping statistics ---
-4 packets transmitted, 4 received, 0% packet loss
+PING adithya.rao — 4 packets transmitted, 4 received, 0% packet loss
 ```
 
 ---
 
-## `$ htop` — GitHub Activity
+## `$ tail -f /var/log/philosophy.log`
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-Adithya&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=cccccc&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-Adithya&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=cccccc)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iam-Adithya&theme=chartreuse-dark&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=cccccc&dates=888888)
-
-</div>
-
----
-
-## `$ tail -f /var/log/adithya/philosophy.log`
-
-```log
+```
 > "An alert firing is a conversation starter — RCA is how you end it for good."
 > "On-call isn't just a rotation. It's ownership."
 > "Automate the toil. Document the context. Own the uptime."
@@ -166,9 +165,9 @@ PING adithya (adicse005@gmail.com): 56 bytes of data
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║   systems nominal · incidents resolved · uptime: ↑  ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║   systems nominal · incidents resolved · uptime: ↑      ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 *Last commit: the incident that didn't page anyone.*
