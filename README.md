@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
 ```
 
-### `Network Reliability Engineer · SRE · Cloud & DevOps`
+### `Site Reliability Engineer · Cloud & DevOps`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Keeping+systems+up+at+3AM+so+you+don%27t+have+to.;SD-WAN+%7C+Incident+Management+%7C+Cloud+Ops;99.9%25+uptime+is+not+a+goal%2C+it%27s+a+baseline.;Turning+alerts+into+RCAs+since+2024.;Automate+the+toil.+Document+the+context.+Own+the+uptime.)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@
 ```ini
 [identity]
 name         = Adithya Rao
-role         = Network Reliability Engineer (Tier 1.5)
+role         = Site Reliability Engineer (Tier 1.5)
 employer     = HCLTech  →  Verizon (client)
 location     = India
 
@@ -120,19 +120,6 @@ b7d09f1  feat: Cloud Monitoring & Alerting Lab — GCP
 ```
 
 ---
-
-## `$ htop` — GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-Adithya&show_icons=true&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=aaffaa&hide_border=false&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-Adithya&layout=compact&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=aaffaa)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iam-Adithya&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=aaffaa&dates=666666)
-
-</div>
-
 ---
 
 ## `$ ping -c 4 adithya`
