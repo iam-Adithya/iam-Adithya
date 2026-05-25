@@ -27,7 +27,7 @@ employer     = HCLTech  →  Verizon (client)
 location     = India
 
 [scope]
-domain       = SD-WAN Operations, Cloud Infra, SRE, DevOps
+domain       = SD-WAN Enterprise Network Operations, Cloud Infra, SRE, DevOps
 clients      = Verizon, American Express, Walmart, PepsiCo, Coca-Cola
 coverage     = 24x7 NOC | Multi-geo | Fortune 500
 
@@ -43,7 +43,7 @@ vendor_tat   = -15%
 ## `$ systemctl status current-role --full`
 
 ```
-● hcltech-nre.service — Network Reliability Engineer, Tier 1.5
+● hcltech-nre.service — Site Reliability Engineer, Tier 1.5
      Loaded: active (running) since Aug 2025
      Client: Verizon (primary) + Fortune 500 enterprise accounts
      Status: "Monitoring SD-WAN, MPLS & DC infra across multiple geographies"
