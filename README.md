@@ -1,57 +1,178 @@
+<!-- Header -->
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
+```
+███████╗██████╗ ███████╗
+██╔════╝██╔══██╗██╔════╝
+███████╗██████╔╝█████╗  
+╚════██║██╔══██╗██╔══╝  
+███████║██║  ██║███████╗
+╚══════╝╚═╝  ╚═╝╚══════╝
+```
 
-  
-<h1  align="center"> Hi 👋, I am Adi <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> </h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
- <h1 align="center"> What do i do?  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="45"/></h1>
-    <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
-    
-- 🔭 I’m currently working on **Creating Cloud Solutions**
+# `$ whoami` → **Adithya Rao**
 
-- 🌱 I’m currently learning **AWS**
+### Network Reliability Engineer · SRE · Cloud Ops
 
-- 💬 Ask me about **Cloud , Python**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Keeping+systems+up+at+3AM+so+you+don%27t+have+to.;SD-WAN+%7C+Incident+Management+%7C+Cloud+Ops;99.9%25+uptime+isn%27t+a+goal%2C+it%27s+a+baseline.;Turning+alerts+into+RCAs+since+2024.)](https://git.io/typing-svg)
 
-- 📫 How to reach me **Mr.Adithya.Rao@proton.me**
+</div>
 
-- ⚡ Fun fact **I am Funny**
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
-<h1 align= "center"> 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="40" /></h1>
+```bash
+$ cat /etc/adithya/profile.conf
+```
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
- 
-   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<h1 align="center"> ✍️ Random Dev Quote <img src="https://user-images.githubusercontent.com/74038190/216122005-3226fcc7-8713-41a1-ae5a-51d4b4cbcb83.png" alt="Guide Dog" width="60" /></h1>
+```ini
+[identity]
+name        = Adithya Rao
+role        = Network Reliability Engineer (Tier 1.5)
+location    = India
+employer    = HCLTech
 
-<img  align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="250" />
+[focus]
+primary     = SD-WAN Operations, Incident Management
+secondary   = Cloud Infrastructure (GCP/Azure), IaC
+learning    = Platform Engineering, Observability, SRE practices
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+[sla]
+uptime_target   = 99.9%+
+oncall          = 24x7 NOC
+clients         = Fortune 500 (AmEx, Walmart, PepsiCo, Coca-Cola...)
+```
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-# 🔝 Top Contributed Repo <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
- 
- <img align="right" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200" />
+---
 
-![](https://github-contributor-stats.vercel.app/api?username=iam-Adithya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## `$ systemctl status current-role`
 
-[![](https://visitcount.itsvg.in/api?id=iam-Adithya&icon=7&color=4)](https://visitcount.itsvg.in)
+```
+● hcltech-nre.service — Network Reliability Engineer, Tier 1.5
+     Loaded: active (running) since Aug 2025
+     Status: "Monitoring SD-WAN, MPLS & DC infra for global enterprise clients"
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Operating 24/7 NOC for Fortune 500 clients. Triaging SD-WAN tunnel instability,
+> BGP failures, firewall incidents, and WAN degradation across **Cisco Viptela, Versa,
+> VMware VeloCloud, and HPE Aruba SilverPeak** — owning the full incident lifecycle
+> from alert detection → RCA → closure.
+
+---
+
+## `$ lsblk --topology`
+
+```
+NETWORK STACK                          CLOUD & INFRA
+├── TCP/IP · BGP · OSPF · MPLS         ├── GCP (Compute, Monitoring, Logging, IAM)
+├── SD-WAN (Viptela/Versa/VeloCloud)   ├── Azure (VNet, NSG, AKS, Key Vault)
+├── VPN (IPSec/SSL)                    ├── Terraform · Docker · Kubernetes
+├── DNS · HTTP/S · TLS                 └── Linux/Unix
+└── Palo Alto PAN-OS (Firewall)
+
+OBSERVABILITY                          SCRIPTING
+├── ETMS · BGW · EZstatus · Canvas     ├── Python — alert parsing, log correlation
+├── GCP Cloud Monitoring               ├── Bash — interface polling, toil reduction
+├── SIEM · Wireshark · Suricata        └── Automation — reduce MTTR by 20%
+└── Log Analysis · Alerting Pipelines
+```
+
+---
+
+## `$ cat ~/.certifications`
+
+```
+[✓] AZ-104  Microsoft Certified: Azure Administrator Associate
+[✓] AZ-305  Microsoft Certified: Azure Solutions Architect Expert
+[✓] SD-WAN  Viptela · Versa · VeloCloud · SilverPeak · Meraki
+[✓] CCNA    Routing, Switching & Network Fundamentals (Cisco)
+```
+
+---
+
+## `$ git log --oneline --projects`
+
+```
+a3f1c2e  feat: Netflix Clone — containerised + K8s deployed on GCP
+         └── Docker multi-stage build · 2-replica K8s Deployment · NodePort Service
+             Non-root runtime · Rolling updates · Self-healing pods
+
+b7d09f1  feat: Cloud Monitoring & Alerting Lab — GCP
+         └── Uptime checks · CPU/mem/disk alerting policies · Log-based incident triage
+             Email + webhook notification channels · False-positive tuning
+```
+
+---
+
+## `$ grep -r "impact" /var/log/adithya/work.log`
+
+```log
+[METRIC] Repeat incidents reduced by 25% via structured RCA documentation
+[METRIC] MTTR reduced by 20% through Python/Bash alert automation
+[METRIC] Vendor turnaround time cut by 15% via streamlined escalation workflows
+[UPTIME] Maintained 99.9%+ for multi-geo enterprise SD-WAN environments
+[SCALE]  Supporting ~7 Fortune 500 clients concurrently across telecom/banking/FMCG
+```
+
+---
+
+## `$ ping -c 4 adithya`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/iamadithya)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/iam-Adithya)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/@adicse005)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:adicse005@gmail.com)
+
+</div>
+
+```
+PING adithya (adicse005@gmail.com): 56 bytes of data
+64 bytes: icmp_seq=0 ttl=64 time=fast ms  ← LinkedIn
+64 bytes: icmp_seq=1 ttl=64 time=fast ms  ← GitHub
+64 bytes: icmp_seq=2 ttl=64 time=fast ms  ← Medium
+64 bytes: icmp_seq=3 ttl=64 time=fast ms  ← Email
+
+--- adithya ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss
+```
+
+---
+
+## `$ htop` — GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-Adithya&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=cccccc&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-Adithya&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=cccccc)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iam-Adithya&theme=chartreuse-dark&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=cccccc&dates=888888)
+
+</div>
+
+---
+
+## `$ tail -f /var/log/adithya/philosophy.log`
+
+```log
+> "An alert firing is a conversation starter — RCA is how you end it for good."
+> "On-call isn't just a rotation. It's ownership."
+> "Automate the toil. Document the context. Own the uptime."
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║   systems nominal · incidents resolved · uptime: ↑  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+*Last commit: the incident that didn't page anyone.*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=iam-Adithya&color=00ff41&style=flat-square&label=profile+views)
+
+</div>
