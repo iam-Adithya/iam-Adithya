@@ -85,10 +85,11 @@ SCRIPTING & AUTOMATION
 ## `$ cat ~/.certifications`
 
 ```
-[✓] AZ-104   Microsoft Certified: Azure Administrator Associate
-[✓] AZ-305   Microsoft Certified: Azure Solutions Architect Expert
-[✓] SD-WAN   Viptela · Versa Networks · VeloCloud · SilverPeak · Meraki
-[✓] CCNA     Routing, Switching & Network Fundamentals (Cisco)
+[✓] AZ-104       Microsoft Certified: Azure Administrator Associate
+[✓] AWS-SAA      AWS Certified Solutions Architect Associate
+[✓] AZ-305       Microsoft Certified: Azure Solutions Architect Expert
+[✓] SD-WAN       Viptela · Versa Networks · VeloCloud · SilverPeak · Meraki
+
 ```
 
 ---
